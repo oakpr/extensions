@@ -1,0 +1,19 @@
+{
+	"recommendations": [
+		"bungcip.better-toml",
+		"ultram4rine.vscode-choosealicense",
+		"vadimcn.vscode-lldb",
+		"serayuzgur.crates",
+		"ms-vscode-remote.remote-containers",
+		"ms-azuretools.vscode-docker",
+		"mhutchie.git-graph",
+		"github.vscode-pull-request-github",
+		"ms-vsliveshare.vsliveshare",
+		"yzhang.markdown-all-in-one",
+		"rust-lang.rust-analyzer",
+		"samverschueren.linter-xo",
+		"bierner.emojisense",
+		"editorconfig.editorconfig",
+		"firefox-devtools.vscode-firefox-debug"
+	]
+}
